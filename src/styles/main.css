@@ -1,0 +1,13 @@
+* {
+    background-color: #1c1c1c;
+    color: #fafafa;
+}
+
+body {
+    text-align: center;
+}
+
+.react_logo_icon {
+    width: 350px;
+    height: 300px;
+}
